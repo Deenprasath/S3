@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+void sample(char name[])
+{
+    printf("My name is %s \n",name);
+    
+}
+int main()
+{
+    sample("deenu");
+    return 0;
+    
+    
+}
